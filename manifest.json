@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "mitmproxy",
+  "repo": "android-unpinner",
+  "versions": [
+    {
+      "commit": "60cbfee4d43cedaff622d72c27d87e418a111413",
+      "parsed_at": "2026-11-07T08:06:23.900819+00:00",
+      "filetree": "filetree/60cbfee4d43cedaff622d72c27d87e418a111413.nq.gz",
+      "blobs": [
+        "blob/eb9c709670c0f5daee5b68360eb8f43821b87857.nq.gz",
+        "blob/22e79c7b48e2fa595d1113058495284a722bdd66.nq.gz",
+        "blob/bffa70265f954852b10de42ffa6cc22c07f3e1dd.nq.gz",
+        "blob/cfc3c802dcddd25122b2ce1282ca63d76167a4e0.nq.gz",
+        "blob/f58e9910bf7c240b7da7c3835b9f6e692d4ee1cf.nq.gz",
+        "blob/ce22b3f2c0b09aa572dc6aaec7fd95556cad0b60.nq.gz",
+        "blob/38c18bdf922d985f99b091726cbc1564d7d5e432.nq.gz",
+        "blob/ee01db8446d798f1918f4600583f003e4c320f90.nq.gz",
+        "blob/4802e90f8edc38346215a3277cf96f0fa7474c32.nq.gz",
+        "blob/7180b0f737ddbc41e678e0b183933712823be96a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
