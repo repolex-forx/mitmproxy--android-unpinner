@@ -1,0 +1,11 @@
+{
+  "org": "mitmproxy",
+  "repo": "android-unpinner",
+  "versions": [
+    {
+      "commit": "60cbfee4d43cedaff622d72c27d87e418a111413",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:08:50.449290+00:00"
+    }
+  ]
+}
